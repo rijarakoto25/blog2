@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5f48dc2e2b7974732456feef"},"pseudo":"rrija","mdp":"rija!"}
+{"_id":{"$oid":"5f48e04b2b7974732456fef0"},"pseudo":"rija","mdp":"rija!","niveau":1.0,"prenom":"rija","nom":"Rakotomanga","rue":"10 rue Arnaud Massy","cp":"91250","ville":"saint germain","telephone":"1234567890"}
+{"_id":{"$oid":"5f4911ae2b7974732456fef1"},"pseudo":"andry","mdp":"andry!","niveau":1.0,"prenom":"Andry","nom":"Priano","rue":"17 rue elsa triolet","cp":"77176","ville":"savigny le temple","telephone":"0987654321"}
+{"_id":{"$oid":"5f4a33d6a1d8deb6f923af71"},"pseudo":"rakoto","mdp":"rija","niveau":1.0}
